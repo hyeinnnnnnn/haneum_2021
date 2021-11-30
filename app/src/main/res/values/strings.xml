@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OndochaApp</string>
+    <string name="msg_token_fmt">토큰 : %s</string>
+    <string name="default_notification_channel_id">확진 의심자</string>
+    <string name="fcm_message">title</string>
+</resources>
